@@ -7,17 +7,22 @@ Ejercicio: [Aplicar Estilos Básicos]
 
 body {
     background-color: beige;
+    /* Color del fondo */
     font-family: Arial, sans-serif;
+    /* Tipo de fuente */
 }
 
 p {
     color: blue;
+    /* Color del texto en los párrafos */
 }
 
 h1 {
     margin: 20px;
+    /* Margen alrededor del título */
 }
 
 div {
     border: 2px solid black;
+    /* Color y grosor del borde */
 }
