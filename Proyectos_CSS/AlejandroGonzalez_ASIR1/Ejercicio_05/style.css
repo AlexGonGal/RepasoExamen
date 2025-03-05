@@ -7,13 +7,18 @@ Ejercicio: [Grid Layout]
 
 .grid {
     display: grid;
+    /* Activa el grid */
     grid-template-columns: repeat(3, 1fr);
+    /* Crea 3 columnas iguales */
     grid-template-rows: 100px 200px;
+    /* Tamaño de las filas */
 }
 
 .celda {
     display: flex;
 }
+
+/* CADA CELDA TIENE UN COLOR DISTINTO */
 
 .rojo {
     background-color: red;
