@@ -9,7 +9,7 @@ Ejercicio: [Selectores en CSS]
     color: red;
 }
 
-p {
+#caja p {
     color: green;
     background-color: gray;
 }
