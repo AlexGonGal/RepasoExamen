@@ -1,0 +1,29 @@
+/* 
+Nombre: [Alejandro González Galindo] 
+Curso: [ASIR1] 
+Fecha: [05/03/2025] 
+Ejercicio: [Flexbox] 
+*/
+
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+}
+
+.caja {
+    width: 100px;
+    height: 100px;
+    color: white;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.negro {
+    background-color: black;
+}
