@@ -4,3 +4,37 @@ Curso: [ASIR1]
 Fecha: [05/03/2025] 
 Ejercicio: [Grid Layout] 
 */
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1);
+    grid-template-rows: 100px 200px;
+}
+
+.celda {
+    display: flex;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.verde {
+    background-color: green;
+}
+
+.naranja {
+    background-color: orange;
+}
+
+.negro {
+    background-color: black;
+}
+
+.rosa {
+    background-color: pink;
+}
