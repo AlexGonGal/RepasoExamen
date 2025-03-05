@@ -1,0 +1,19 @@
+/* 
+Nombre: [Alejandro González Galindo] 
+Curso: [ASIR1] 
+Fecha: [05/03/2025] 
+Ejercicio: [Selectores en CSS] 
+*/
+
+.destacado {
+    color: red;
+}
+
+p {
+    color: green;
+    background-color: gray;
+}
+
+h1 {
+    font-size: 30px;
+}
