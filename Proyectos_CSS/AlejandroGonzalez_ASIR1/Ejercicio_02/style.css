@@ -7,13 +7,17 @@ Ejercicio: [Selectores en CSS]
 
 .destacado {
     color: red;
+    /* Color del texto en párrafos con esta clase */
 }
 
 #caja p {
     color: green;
+    /* Color del texto en párrafos dentro de #caja */
     background-color: gray;
+    /* Color del fondo */
 }
 
 h1 {
     font-size: 30px;
+    /* Títulos con fuente de 30px */
 }
