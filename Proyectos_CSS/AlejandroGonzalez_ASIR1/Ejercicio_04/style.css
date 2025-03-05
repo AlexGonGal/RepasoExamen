@@ -8,12 +8,16 @@ Ejercicio: [Flexbox]
 .contenedor {
     display: flex;
     justify-content: space-around;
+    /* Espacio uniforme entre cajas */
 }
 
 .caja {
     width: 100px;
+    /* Tamaño de la caja */
     height: 100px;
-    color: white;
+    /* Tamaño de la caja */
+    color: greenyellow;
+    /* Color del fondo */
 }
 
 .rojo {
