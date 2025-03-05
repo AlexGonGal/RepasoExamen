@@ -9,9 +9,6 @@ Ejercicio: [Flexbox]
     display: flex;
     justify-content: space-around;
     /* Espacio uniforme entre cajas */
-}
-
-.caja {
     width: 100px;
     /* Tamaño de la caja */
     height: 100px;
