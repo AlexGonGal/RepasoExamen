@@ -1,2 +1,0 @@
-# RepasoExamen
-Ejercicios Repaso Examen
