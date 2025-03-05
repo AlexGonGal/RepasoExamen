@@ -1,0 +1,16 @@
+body {
+    background-color: beige;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    color: blue;
+}
+
+h1 {
+    margin: 20px;
+}
+
+div {
+    border: 2px solid black;
+}
