@@ -7,13 +7,23 @@ Ejercicio: [Modelo de Caja]
 
 .caja {
     width: 300px;
+    /* Tamaño de la caja */
     height: 150px;
+    /* Tamaño de la caja */
     background-color: yellow;
+    /* Color del fondo */
     border: 5px solid blue;
+    /* Color y grososr del borde */
     padding: 10px;
+    /* Margen interno */
     margin: 20px;
+    /* Margen externo */
     display: flex;
+    /* Centra el texto */
     align-items: center;
+    /* Centra el texto */
     justify-content: center;
+    /* Centra el texto */
     text-align: center;
+    /* Centra el texto */
 }
